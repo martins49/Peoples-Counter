@@ -1,6 +1,10 @@
 /* *{
     background-color: rebeccapurple;
 } */
+body{
+    background-color: rgb(161, 133, 61);
+    /* color: white; */
+}
 button{
     border: none;
     padding-top: 10px;
